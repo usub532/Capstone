@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "capstone",
+=======
+  "name": "app",
+>>>>>>> 438a16ba242655f5ecb58f5f13cb93a016ce70bb
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -9,6 +13,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@react-native-community/masked-view": "^0.1.11",
     "@react-navigation/native": "^6.1.9",
     "@react-navigation/stack": "^6.3.20",
@@ -26,6 +31,17 @@
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
+=======
+    "expo": "~49.0.15",
+    "expo-status-bar": "~1.6.0",
+    "react": "18.2.0",
+    "react-native": "0.72.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "eslint": "^8.56.0",
+    "eslint-plugin-react": "^7.33.2"
+>>>>>>> 438a16ba242655f5ecb58f5f13cb93a016ce70bb
   },
   "private": true
 }
